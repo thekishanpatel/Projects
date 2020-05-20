@@ -1,5 +1,6 @@
 # **New York City Property Sales Project**
-Usinge several statistical learning methods to predict the property sales price of properties in NYC,
-based on data consisting of all sales between Sep-2016 and Oct-2017.
+The scope of this project was to use the dataset to
+identify market trends, and ultimately build a powerful model through statistical methods that can
+predict the sales-price of a property—given the values of the predictor variables.
 
 Link to data: *https://www.kaggle.com/new-york-city/nyc-property-sales*
