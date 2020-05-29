@@ -13,8 +13,6 @@ os.chdir(r'') # where the client_id is stored
 f = open('client_id')
 cid = f.read()
 
-ticker = 'AAPL'
-
 def get_prices(ticker):
     global cid
     endpoint = "https://api.tdameritrade.com/v1/marketdata/{}/pricehistory".format(ticker)
